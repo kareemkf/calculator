@@ -19,4 +19,6 @@ steps:
     npm install
     npm run build
     npm test
+    # second trigger
   displayName: 'npm install, build and test'
+# testing
